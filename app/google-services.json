@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512208205980",
+    "firebase_url": "https://hantiket.firebaseio.com",
+    "project_id": "hantiket",
+    "storage_bucket": "hantiket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512208205980:android:d1fe844fcbaa1e9e0f5559",
+        "android_client_info": {
+          "package_name": "com.example.hantiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512208205980-g574njo3b53inpnoo0rk6vsnip9ktbl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hantiket",
+            "certificate_hash": "6e3f12dbec76896cfdb27aff8c2044c2d7a49d28"
+          }
+        },
+        {
+          "client_id": "512208205980-0rh3o7i7p75h0me38qj6j503peg9spqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRa4pkFU-m4rxM7idOAQga0Xx1gA39gHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512208205980-0rh3o7i7p75h0me38qj6j503peg9spqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

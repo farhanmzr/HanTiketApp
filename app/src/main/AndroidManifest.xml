@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hantiket">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/splash"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/splash"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EditProfileAct"></activity>
+        <activity android:name=".MyTicketDetailAct" />
+        <activity android:name=".MyProfileAct" />
+        <activity android:name=".SuccesBuyTicketAct" />
+        <activity android:name=".TicketCheckoutAct" />
+        <activity android:name=".TicketDetailAct" />
+        <activity android:name=".HomeAct" />
+        <activity android:name=".SuccesRegisterAct" />
+        <activity android:name=".RegisterTwoAct" />
+        <activity android:name=".RegisterOneAct" />
+        <activity android:name=".SignInAct" />
+        <activity android:name=".GetStartedAct" />
+        <activity android:name=".SplashAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

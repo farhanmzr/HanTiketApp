@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HanTiket</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Sign Up</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="name_label">Nama</string>
+    <string name="bio_label">Bio</string>
+    <string name="explore">Explore Now</string>
+</resources>
